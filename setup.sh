@@ -44,3 +44,5 @@ ln -sf dotfiles/.emacs.d .
 wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
 git config --global user.name "Spoonunit"
 git config --global user.email "spoonbase@googlemail.com"
+npm install cheerio
+npm install commander
